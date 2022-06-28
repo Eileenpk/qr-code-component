@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![screen shot of full screen webpage](https://github.com/Eileenpk/product-preview-card-component/blob/main/images/ScreenShot%20full%20view.png)
-![screen shot of mobile webpage](https://github.com/Eileenpk/product-preview-card-component/blob/main/images/ScreenShot%20mobile%20view.png)
+![screen shot of full screen webpage](https://github.com/Eileenpk/qr-code-component/blob/main/images/Screenshot.png)
+
 ### Links
 
-- Solution URL: [GitHub](https://github.com/Eileenpk/product-preview-card-component)
-- Live Site URL: [live site](https://eileenpk.github.io/product-preview-card-component/)
+- Solution URL: [GitHub](https://github.com/Eileenpk/qr-code-component)
+- Live Site URL: [live site](https://eileenpk.github.io/qr-code-component/)
 
 ### Built with
 
